@@ -1,0 +1,5 @@
+package prpizzeria.Entidades;
+
+public interface IVendible {
+    public double  getPrecioTotal();
+}
